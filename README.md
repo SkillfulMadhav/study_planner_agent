@@ -1,6 +1,6 @@
 Smart Study Planner — Multi-Agent AI Scheduler
 
-🧠 Problem Statement
+Problem Statement
 
 
 
@@ -10,7 +10,7 @@ This project solves that by generating automated study schedules based on tasks,
 
 
 
-🤖 Why Agents?
+Why Agents?
 
 
 
@@ -40,7 +40,7 @@ This creates a self-correcting, high-quality schedule.
 
 
 
-🏗️ Architecture Overview
+Architecture Overview
 
 Root Agent (SequentialAgent)
 
@@ -98,7 +98,7 @@ Gemini models (2.5-flash)
 
 
 
-🖥️ Demo Output
+Demo Output
 
 
 
